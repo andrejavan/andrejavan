@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @andrejavan
+- 👀 I love anything fast
+- 🌱 I’m currently learning MATLAB and convex optimization
+- 📫 Reach me at afjavan@gmail.com
